@@ -4,5 +4,6 @@ import ReactDOM from 'react-dom';
 ]]>
 </content>
     <tabTrigger>imrd</tabTrigger>
+    <scope>source.js</scope>
     <description>import react-dom</description>
 </snippet>
